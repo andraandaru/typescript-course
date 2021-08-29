@@ -1,0 +1,12 @@
+{
+  "name": "typescript-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./build/class.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
+}
